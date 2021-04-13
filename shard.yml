@@ -6,4 +6,4 @@ authors:
 
 license: WTFPL
 
-crystal: ~> 1
+crystal: ">= 0.35.1, < 2"
