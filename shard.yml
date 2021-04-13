@@ -1,7 +1,7 @@
 name: CrystalEmail
 version: v0.2.5
 
-crystal: ~> 1
+crystal: ">= 0.17, < 2"
 
 authors:
   - Arthur Poulet <arthur.poulet@sceptique.eu>
