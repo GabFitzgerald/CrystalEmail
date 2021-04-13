@@ -1,5 +1,5 @@
 name: CrystalEmail
-version: v0.2.5
+version: 0.2.5
 
 crystal: ">= 0.17, < 2"
 
